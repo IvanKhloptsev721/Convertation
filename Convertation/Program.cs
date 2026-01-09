@@ -10,29 +10,26 @@ namespace Convertation
         {
             Convert("USD", "RUB", "5");
 
-            static void Convert(string from, string to, string amount) // Исправил порядок параметров
+            static void Convert(string from, string to, string amount) 
             {
                 var client = new RestClient("https://api.apilayer.com");
-
-                // ОШИБКА: в URL пропущено = после from. И порядок параметров неправильный
-                // Правильно: from={from}&to={to}
                 var request = new RestRequest($"currency_data/convert?from={from}&to={to}&amount={amount}", Method.Get);
                 request.AddHeader("apikey", "lOmNJehjGlzCBAIkgabfM09sG9PpsPVH");
 
-                // ВАЖНО: Dispose response после использования
-                RestResponse response = client.Execute(request); // ExecuteGet устарел
+                
+                RestResponse response = client.Execute(request);
 
                 if (response.IsSuccessful)
                 {
                     Console.WriteLine("Ответ API:");
                     Console.WriteLine(response.Content);
 
-                    // Десериализация
+                   
                     try
                     {
                         dynamic responseAnswer = JsonConvert.DeserializeObject<dynamic>(response.Content);
 
-                        // Проверяем успешность конвертации
+                     
                         if (responseAnswer.success == true)
                         {
                             double result = responseAnswer.result;
