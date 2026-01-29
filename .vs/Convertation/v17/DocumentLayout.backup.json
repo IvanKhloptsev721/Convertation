@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan_comp\\source\\repos\\Convertation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE74E4D-1F5F-4EAD-A4F3-2D4312038D0A}|Convertation\\Convertation.csproj|c:\\users\\ivan_comp\\source\\repos\\convertation\\convertation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE74E4D-1F5F-4EAD-A4F3-2D4312038D0A}|Convertation\\Convertation.csproj|solutionrelative:convertation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan_comp\\.nuget\\packages\\newtonsoft.json\\13.0.4\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan_comp\\.nuget\\packages\\newtonsoft.json\\13.0.4\\LICENSE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Ivan_comp\\.nuget\\packages\\newtonsoft.json\\13.0.4\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\newtonsoft.json\\13.0.4\\README.md",
+              "ToolTip": "C:\\Users\\Ivan_comp\\.nuget\\packages\\newtonsoft.json\\13.0.4\\README.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\newtonsoft.json\\13.0.4\\README.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-27T06:05:16.587Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LICENSE.md",
+              "DocumentMoniker": "C:\\Users\\Ivan_comp\\.nuget\\packages\\newtonsoft.json\\13.0.4\\LICENSE.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\newtonsoft.json\\13.0.4\\LICENSE.md",
+              "ToolTip": "C:\\Users\\Ivan_comp\\.nuget\\packages\\newtonsoft.json\\13.0.4\\LICENSE.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\newtonsoft.json\\13.0.4\\LICENSE.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-27T06:05:15.133Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan_comp\\source\\repos\\Convertation\\Convertation\\Program.cs",
+              "RelativeDocumentMoniker": "Convertation\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivan_comp\\source\\repos\\Convertation\\Convertation\\Program.cs*",
+              "RelativeToolTip": "Convertation\\Program.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:39:46.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
